@@ -1,0 +1,8 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ibm_db": "2.7.1"
+  }
+}
